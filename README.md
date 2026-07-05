@@ -47,7 +47,7 @@ Machine Learning • Artificial Intelligence • Statistics • Data Science
 * Data Visualization
 * Git & GitHub
 
-📫 **Email:** (mailto:vishwasbhu.in@gmail.com)
+📫 **Email:** (vishwasbhu.in@gmail.com)
 
 ⚡ **Goal:** Become an AI/ML Engineer and build impactful intelligent systems.
 
