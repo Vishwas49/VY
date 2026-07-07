@@ -149,6 +149,7 @@ Machine Learning • Artificial Intelligence • Statistics • Data Science
 |  |
 | ------- |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Vishwas49/VY/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Vishwas49/VY/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Number Theory
 |  |
 | ------- |
