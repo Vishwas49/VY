@@ -138,3 +138,19 @@ Machine Learning • Artificial Intelligence • Statistics • Data Science
 ---
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Vishwas49/VY/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
+## Math
+|  |
+| ------- |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Vishwas49/VY/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
+## Number Theory
+|  |
+| ------- |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Vishwas49/VY/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
+<!---LeetCode Topics End-->
