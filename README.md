@@ -126,7 +126,7 @@ Machine Learning • Artificial Intelligence • Statistics • Data Science
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Vishwas49/Vishwas49/output/github-snake-dark.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/Vishwas49/VY/output/github-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
